@@ -1,0 +1,233 @@
+ .u-section-1 {
+  background-image: url("images/pexels-andrea-schettino-3923277.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 672px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  text-shadow: -2px -2px 8px rgba(128,128,128,1);
+  width: 786px;
+  font-weight: 700;
+  margin: 128px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 774px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-family: Georgia, serif;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 693px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 621px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-top: 90px;
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 590px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: 60px;
+    font-size: 3rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1288px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 41px auto 0;
+}
+
+.u-section-2 .u-list-1 {
+  width: 547px;
+  margin: 31px auto 0 15px;
+}
+
+.u-section-2 .u-repeater-1 {
+  min-height: 1038px;
+  grid-template-columns: 100%;
+  grid-gap: 5px 5px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-2 .u-group-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: none;
+  min-height: 323px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-2 .u-group-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: none;
+  min-height: 323px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-custom-html-2 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 10px;
+}
+
+.u-section-2 .u-group-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: none;
+  min-height: 323px;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-2 .u-custom-html-3 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 2.25rem;
+  margin: -1028px 274px 0 auto;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 2.25rem;
+  margin: 307px 232px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 2.25rem;
+  margin: 299px 88px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1978px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: -1039px;
+    margin-right: 67px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 312px;
+    margin-right: 25px;
+  }
+
+  .u-section-2 .u-text-4 {
+    font-size: 1.5rem;
+    width: auto;
+    margin-top: 308px;
+    margin-right: 0;
+    margin-left: 562px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    margin-top: -1028px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-right: 88px;
+    margin-left: 342px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-list-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 162px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+  }
+}
